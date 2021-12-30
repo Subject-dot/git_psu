@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Паша\OneDrive\Документы\ПГУ\Программирование\2 курс\Lab1\Source.cpp(97,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Паша\OneDrive\Документы\ПГУ\Программирование\2 курс\Lab1\Source.cpp(99,20): warning C4101: j: неиспользованная локальная переменная
+C:\Users\Паша\OneDrive\Документы\ПГУ\Программирование\2 курс\Lab1\Source.cpp(122,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Lab1.vcxproj -> C:\Users\Паша\OneDrive\Документы\ПГУ\Программирование\2 курс\Lab1\Debug\Lab1.exe
