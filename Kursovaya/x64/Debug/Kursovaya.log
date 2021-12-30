@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\Паша\OneDrive\Документы\ПГУ\Программирование\2 курс\Kursovaya\Main.cpp(24,2): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Паша\OneDrive\Документы\ПГУ\Программирование\2 курс\Kursovaya\Main.cpp(119,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Kursovaya.vcxproj -> C:\Users\Паша\OneDrive\Документы\ПГУ\Программирование\2 курс\Kursovaya\x64\Debug\Kursovaya.exe
