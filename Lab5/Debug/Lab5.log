@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Паша\OneDrive\Документы\ПГУ\Программирование\2 курс\Lab5\Source.cpp(194,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Паша\OneDrive\Документы\ПГУ\Программирование\2 курс\Lab5\Source.cpp(196,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Lab5.vcxproj -> C:\Users\Паша\OneDrive\Документы\ПГУ\Программирование\2 курс\Lab5\Debug\Lab5.exe

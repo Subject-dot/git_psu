@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Паша\OneDrive\Документы\ПГУ\Программирование\2 курс\Lab7\Source.cpp(33,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Паша\OneDrive\Документы\ПГУ\Программирование\2 курс\Lab7\Source.cpp(35,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Паша\OneDrive\Документы\ПГУ\Программирование\2 курс\Lab7\Source.cpp(36,14): warning C4101: v: неиспользованная локальная переменная
+C:\Users\Паша\OneDrive\Документы\ПГУ\Программирование\2 курс\Lab7\Source.cpp(36,9): warning C4101: num: неиспользованная локальная переменная
+  Lab7.vcxproj -> C:\Users\Паша\OneDrive\Документы\ПГУ\Программирование\2 курс\Lab7\Debug\Lab7.exe
